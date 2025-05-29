@@ -1,0 +1,12 @@
+.env
+.env.*
+compras.json
+venv/
+backups/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
